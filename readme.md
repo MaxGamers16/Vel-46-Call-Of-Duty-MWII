@@ -2,11 +2,11 @@
 
 # Vel-46 - Call of Duty: MWII
 
-**Мод добавляет оружие VEL-46** из Call of Duty: Modern Warfare II в Garry's Mod.
+**This mod adds the VEL-46 weapon** from Call of Duty: Modern Warfare II into Garry's Mod.
 
-## Установка
+## Installation
 
-1. Скачай мод
-2. Распакуй архив в папку:
+1. Download the mod.
+2. Extract the archive into your addons folder:
    ```bash
-   common/GarrysMod/garrysmod/addons
+   Steam/steamapps/common/GarrysMod/garrysmod/addons
